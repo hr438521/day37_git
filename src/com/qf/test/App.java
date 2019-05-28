@@ -6,6 +6,7 @@ public class App {
         System.out.println("heihei");
        // System.out.println("哈哈");
         System.out.println("heihei");
+
         int a = 10;
     }
 }
